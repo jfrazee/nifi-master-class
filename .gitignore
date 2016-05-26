@@ -12,6 +12,7 @@ nb-configuration.xml
 *.json
 *.json.gz
 *.swp
+.vagrant
 
 # Package Files #
 *.jar
